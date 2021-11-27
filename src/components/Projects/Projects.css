@@ -6,6 +6,7 @@
     min-height: 100vh;
     overflow-x: hidden;
     padding: 2rem;
+    
 }
 
 
@@ -30,6 +31,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+  
 }
 
 .projects--bodyContainer {
@@ -38,6 +40,8 @@
     justify-content: center;
     gap: 4.5rem;
     width: 100%;
+   
+   
 }
 
 .projects--viewAll {
