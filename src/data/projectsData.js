@@ -12,7 +12,7 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Purplle Clone',
-        projectDesc: 'Purpl le i s an onl ine s tore that sells cosmetics fragrances skin and hair care products for both men and women.',
+        projectDesc: 'Purplle is an online store that sells cosmetics fragrances skin and hair care products for both men and women.',
         tags: ['HTML', 'CSS', 'javaScript', 'mongoDB', 'NPM', 'hbs'],
         code: 'https://github.com/shaista78/Cloning_Website_Using_Backend',
         demo: 'https://drive.google.com/file/d/1EPogPb8TUXOOrncNpLQKLldb4WCLuVrK/view?usp=sharing',

@@ -18,8 +18,8 @@ export const blogData = [
     },
     {
         id: 3,
-        title: 'Purplle clone using Backend',
-        description: 'purplle.com is Ecommerce website which sells cosmetic produtcs online. Through this website we can order any cosmetics related to men and women are available in the website.',
+        title: 'Purplle clone using MongoDB',
+        description: 'purplle.com is Ecommerce website which sells cosmetic produtcs online.',
         date: 'Oct 03, 2020',
         image: 'https://miro.medium.com/max/1400/1*raI92y3S6aFYZGna4JxPbg.png',
         url: 'https://medium.com/@shaistasulthana78/cloning-purplle-com-website-fda2c3f3914c'
